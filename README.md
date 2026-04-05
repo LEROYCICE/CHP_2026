@@ -1,6 +1,6 @@
 # Projet CHP — Advection 2D par différences finies avec MPI
 
-**Cours** :Calcul Haute Performance  
+**Cours** : Calcul Haute Performance  
 **École** : Enseirb-Matmeca, Master 2 – 2025/2026  
 
 
