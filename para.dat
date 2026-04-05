@@ -1,0 +1,22 @@
+# cas
+3
+# xmin
+-1.0
+# xmax
+1.0
+# ymin
+-1.0
+# ymax
+1.0
+# Tf
+2.0
+# Nx
+100
+# Ny
+50
+# CFL
+0.45
+# space_scheme
+1
+# time_scheme
+1
